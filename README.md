@@ -3,7 +3,7 @@
 
 ### 진행상황
 데이터 수집 ([구체적 진행상황](https://github.com/SEEUNL/Recycle/issues/13))
-간결한 학습 모델 구축 ([구체적 진행상황](https://github.com/SEEUNL/Recycle/issues/14)), [학습코드]https://github.com/SEEUNL/Recycle/blob/master/Untitled24_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb
+간결한 학습 모델 구축 ([구체적 진행상황](https://github.com/SEEUNL/Recycle/issues/14)), [학습코드](https://github.com/SEEUNL/Recycle/blob/master/Untitled24_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)
 데이터셋 분할 (train, test, validation) (진행중)
 
 ### 계획 대비 진행 상황
@@ -17,8 +17,8 @@ OpenCV를 이용하여 데이터 이진화
 
 
 ### 회의록
-[5월 28일 모임]https://github.com/SEEUNL/Recycle/issues/15
-[5월 13일]https://github.com/SEEUNL/Recycle/issues/10
-[5월 8일]https://github.com/SEEUNL/Recycle/issues/5
-[4월 18일]https://github.com/SEEUNL/Recycle/issues/1
+[5월 28일 모임](https://github.com/SEEUNL/Recycle/issues/15)
+[5월 13일](https://github.com/SEEUNL/Recycle/issues/10)
+[5월 8일](https://github.com/SEEUNL/Recycle/issues/5)
+[4월 18일](https://github.com/SEEUNL/Recycle/issues/1)
 
