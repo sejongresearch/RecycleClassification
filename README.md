@@ -25,18 +25,18 @@
 * OpenCV를 이용하여 데이터 이진화
 
 * 모델 평가, 선정(VGGNet, Resnet, Inception, GoogleNet 등 여러가지 분류모델중 성능이 좋은 모델 선정)
-  *평가 지표: accuracy, precision, recall, F-measure 
-  *모델 성능 비교 시 데이터에 분포 차이가 있는 경우가 많으므로 F-measure 많이 사용
-  *precision과 recall중 무엇을 중시할지 결정.
-  *"precision이 0.9 미만인 모델은 채용X" 같은 최소조건을 정하고 이 조건을 만족하면서 F-measure, accuracy가 높은 모델 선택
+  * 평가 지표: accuracy, precision, recall, F-measure 
+  * 모델 성능 비교 시 데이터에 분포 차이가 있는 경우가 많으므로 F-measure 많이 사용
+  * precision과 recall중 무엇을 중시할지 결정.
+  * "precision이 0.9 미만인 모델은 채용X" 같은 최소조건을 정하고 이 조건을 만족하면서 F-measure, accuracy가 높은 모델 선택
   
    
 * 모델 성능 개선(Regularization)
-  *Data Augmentation 을 통한 데이터 증강(keras 내장 함수 이용)
-  *데이터셋 추가 
-  *Batch Nomarlization
-  *Hyperparameter Tuning(랜덤 서치)
-  *성능이 좋은 2가지 모델을 병렬로 구성하여 앙상블 모델 생성 
+  * Data Augmentation 을 통한 데이터 증강(keras 내장 함수 이용)
+  * 데이터셋 추가 
+  * Batch Nomarlization
+  * Hyperparameter Tuning(랜덤 서치)
+  * 성능이 좋은 2가지 모델을 병렬로 구성하여 앙상블 모델 생성 
 
   
 ### 회의록
