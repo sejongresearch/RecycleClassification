@@ -2,13 +2,13 @@
 2019 AI Term Project-Team Recycle
 
 ### 진행상황
-*데이터 수집 ([구체적 진행상황](https://github.com/SEEUNL/Recycle/issues/13))
+-데이터 수집 ([구체적 진행상황](https://github.com/SEEUNL/Recycle/issues/13))
 
 
-*간결한 학습 모델 구축 ([구체적 진행상황](https://github.com/SEEUNL/Recycle/issues/14)), [학습코드](https://github.com/SEEUNL/Recycle/blob/master/Untitled24_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)
+-간결한 학습 모델 구축 ([구체적 진행상황](https://github.com/SEEUNL/Recycle/issues/14)), [학습코드](https://github.com/SEEUNL/Recycle/blob/master/Untitled24_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)
 
 
-*데이터셋 분할 (train, test, validation) (진행중)
+* 데이터셋 분할 (train, test, validation) (진행중)
 
 ### 계획 대비 진행 상황
 *비닐을 포함한 6개의 클래스로 분류할 예정이었지만 비닐 데이터셋이 적고 학습에 어려움이 있어 제외하기로 함. 
