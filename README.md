@@ -31,7 +31,7 @@
   * "precision이 0.9 미만인 모델은 채용X" 같은 최소조건을 정하고 이 조건을 만족하면서 F-measure, accuracy가 높은 모델 선택
   
    
-* 모델 성능 개선(Regularization)
+* 모델 성능 개선
   * Data Augmentation 을 통한 데이터 증강(keras 내장 함수 이용)
   * 데이터셋 추가 
   * Batch Nomarlization
