@@ -50,3 +50,6 @@
 
 
 * [4월 18일](https://github.com/SEEUNL/Recycle/issues/1)
+
+###발표 PPt
+https://github.com/SEEUNL/Recycle/blob/master/ppt.pptx
