@@ -57,5 +57,5 @@ https://github.com/sejongresearch/Recycle/blob/master/%EC%9D%B8%EA%B3%B5%EC%A7%8
 ### 발표 PPt
 https://github.com/SEEUNL/Recycle/blob/master/ppt.pptx
 
-###코드
+### 코드
 https://github.com/sejongresearch/Recycle/blob/master/%EB%B6%84%EB%A5%98%EA%B8%B0_%EC%B5%9C%EC%A2%85(%EC%A7%84%EC%A7%9C%EC%B5%9C%EC%A2%85).ipynb
