@@ -51,5 +51,8 @@
 
 * [4월 18일](https://github.com/SEEUNL/Recycle/issues/1)
 
+### 보고서
+https://github.com/sejongresearch/Recycle/blob/master/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20(2).doc
+
 ### 발표 PPt
 https://github.com/SEEUNL/Recycle/blob/master/ppt.pptx
