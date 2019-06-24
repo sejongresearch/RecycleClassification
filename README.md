@@ -55,7 +55,7 @@
 https://github.com/sejongresearch/RecycleClassification/blob/master/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20(2)-%EB%B3%80%ED%99%98%EB%90%A8.pdf
 
 ### 발표 PPt
-https://github.com/SEEUNL/Recycle/blob/master/ppt.pptx
+https://github.com/sejongresearch/RecycleClassification/blob/master/ppt%20(1).pptx
 
 ### 코드
 https://github.com/sejongresearch/Recycle/blob/master/%EB%B6%84%EB%A5%98%EA%B8%B0_%EC%B5%9C%EC%A2%85(%EC%A7%84%EC%A7%9C%EC%B5%9C%EC%A2%85).ipynb
